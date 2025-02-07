@@ -39704,7 +39704,7 @@ if(s.$2(a,k)>0){j.b[b]=k
 b=p}}j.b[b]=a}}
 A.ER.prototype={
 N(a){var s=null
-return new A.uK(new A.w_(s),"House Rent Predictor",A.xf(s,B.iQ,s),!1,s)}}
+return new A.uK(new A.w_(s),"Dhaka House Rent Predictor",A.xf(s,B.iQ,s),!1,s)}}
 A.w_.prototype={
 ag(){var s=$.ai()
 return new A.zz(new A.nb(B.dZ,s),new A.nb(B.dZ,s),new A.nb(B.dZ,s),new A.nb(B.dZ,s),B.k)}}
@@ -39720,7 +39720,7 @@ case 2:m=b
 q.ai(new A.a8B(q,B.cr.NF(A.ayi(A.awl(m.e).c.a.h(0,"charset")).f3(m.w),null)))
 return A.R(null,r)}})
 return A.S($async$xh,r)},
-N(a){var s=this,r=null,q=A.j3("House Rent Predictor",r,r,r,r,r,r),p=A.b([A.a2K(s.d,A.Ea(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Area (sqft)",r,r,r,r,r,r,r,r,r,r,r,r,r),B.jx),A.a2K(s.e,A.Ea(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Number of Beds",r,r,r,r,r,r,r,r,r,r,r,r,r),B.jx),A.a2K(s.f,A.Ea(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Number of Baths",r,r,r,r,r,r,r,r,r,r,r,r,r),B.jx),A.a2K(s.r,A.Ea(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Location",r,r,r,r,r,r,r,r,r,r,r,r,r),r),A.j_(r,20,r),new A.Dl(s.gae0(),r,r,r,r,B.H,r,!1,r,!0,A.j3("Predict Rent",r,r,r,r,r,r),r),A.j_(r,20,r)],t.E),o=s.w
+N(a){var s=this,r=null,q=A.j3("Dhaka House Rent Predictor",r,r,r,r,r,r),p=A.b([A.a2K(s.d,A.Ea(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Area (sqft)",r,r,r,r,r,r,r,r,r,r,r,r,r),B.jx),A.a2K(s.e,A.Ea(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Number of Beds",r,r,r,r,r,r,r,r,r,r,r,r,r),B.jx),A.a2K(s.f,A.Ea(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Number of Baths",r,r,r,r,r,r,r,r,r,r,r,r,r),B.jx),A.a2K(s.r,A.Ea(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Location",r,r,r,r,r,r,r,r,r,r,r,r,r),r),A.j_(r,20,r),new A.Dl(s.gae0(),r,r,r,r,B.H,r,!1,r,!0,A.j3("Predict Rent",r,r,r,r,r,r),r),A.j_(r,20,r)],t.E),o=s.w
 if(o!=null)p.push(A.j3(o,r,r,r,A.hV(r,r,r,r,r,r,r,r,r,r,r,18,r,r,B.i5,r,r,!0,r,r,r,r,r,r,r,r),r,r))
 return new A.w8(new A.rr(q,new A.Mf(r,r,1/0,56),r),new A.dH(new A.aJ(16,16,16,16),A.acS(p,B.en,B.f1,B.qV),r),r)}}
 A.a8B.prototype={
